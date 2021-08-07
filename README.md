@@ -101,7 +101,7 @@
 [website]: #
 [course]: #
 [twitter]: https://twitter.com/omprakash121uni
-[facebook]: https://youtube.com/samnickgammer.57489
+[facebook]: https://www.facebook.com/samnickgammer.57489
 [instagram]: https://instagram.com/samnickgammer_
 [linkedin]: https://linkedin.com/in/omprakashbharati
 [webdevplaylist]: #
