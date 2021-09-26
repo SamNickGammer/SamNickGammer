@@ -98,6 +98,26 @@
 
 </details> -->
 
+### :zap: Most used languages ❤️
+
+<p align="center">&nbsp;<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=SamNickGammer&layout=compact&hide=html&theme=dracula&hide_border=true"><br>
+<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SamNickGammer&theme=dracula" alt=""><br>
+    <img src= "https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SamNickGammer&theme=dracula">
+</a>
+</p>
+  
+### :zap: GitHub Stats
+
+<p align="center">&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamNickGammer&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=नमस्ते 🙏 Programmers! &layout=compact" /><br><br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SamNickGammer&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamNickGammer&theme=dracula" />
+</p>
+
+
+
+
 [website]: #
 [course]: #
 [twitter]: https://twitter.com/omprakash121uni
