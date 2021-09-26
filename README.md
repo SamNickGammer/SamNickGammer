@@ -98,6 +98,15 @@
 
 </details> -->
 
+### :zap: GitHub Trophies 🏆
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=SamNickGammer&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh"/>
+  </a>
+</p> 
+
+
 ### GitHub Stats:
 
 <p align="center">&nbsp;
@@ -105,7 +114,9 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SamNickGammer&theme=radical&custom_title=streak-stats&hide_border=true&layout=compact" /><br><br>
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamNickGammer&theme=dracula" />
 </p>
-![Sam's github activity graph](https://activity-graph.herokuapp.com/graph?username=SamNickGammer&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+
+![Sam Nick github activity graph](https://activity-graph.herokuapp.com/graph?username=SamNickGammer&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+
 
 ### Most used languages:
 
