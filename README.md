@@ -1,10 +1,9 @@
 ### Hi there, I'm Sam - aka [SamNickGammer][website] 👋
 
 <!-- [![Website]((https://img.shields.io/instagram/follow/omprakash121uni?color=1DA1F2&logo=twitter&style=for-the-badge)](https://instagram.com/samnickgammer_) -->
-[![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/SamNickGammer) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/omprakash121uni?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fomprakash121uni&screen_name=omprakash121uni)
 
-## I'm a Student, Developer, Friend and Some Time Teacher!!
+## I'm a Student, Developer, Friend !!
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - ⭐ I'm working on Personal Artificial Intelligence
