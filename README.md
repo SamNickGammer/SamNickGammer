@@ -119,7 +119,7 @@
 
 <p align="center">&nbsp;
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamNickGammer&show_icons=true&hide_border=true&show_owner=true&title_color=FFFF00&theme=dark&custom_title=नमस्ते 🙏 Programmers! &layout=compact" /><br><br> -->
-  <img align="center" src="#" /><br><br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SamNickGammer&theme=radical&custom_title=streak-stats&layout=compact&hide_border=true" /><br><br>
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SamNickGammer&theme=dracula" />
 </p>
 
