@@ -19,8 +19,8 @@
 [<img align="left" alt="SamNickGammer | Facebook" width="22px" src="./Facebook_perspective_matte_s.png" />][facebook]
 [<img align="left" alt="SamNickGammer | Twitter" width="22px" src="./Twitter_perspective_matte_s.png" />][twitter]
 [<img align="left" alt="SamNickGammer | LinkedIn" width="22px" src="./Linkedin_perspective_matte_s.png" />][linkedin]
-[<img align="left" alt="SamNickGammer | Instagram" width="22px" src="./Instagram_perspective_matte_s.png" />][instagram] -->
-<br />
+[<img align="left" alt="SamNickGammer | Instagram" width="22px" src="./Instagram_perspective_matte_s.png" />][instagram] 
+<br />-->
 
 ### Languages and Tools:
 
