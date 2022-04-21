@@ -14,11 +14,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="SamNickGammer.com" width="22px" src="./perspective__matte.png" />][website]
+<p align="left"> <a href="https://www.facebook.com/samnickgammer.57489" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/SamNickGammer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://samnickgammer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/samnickgammer_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/omprakashbharati" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/omprakash121uni" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+<!-- [<img align="left" alt="SamNickGammer.com" width="22px" src="./perspective__matte.png" />][website]
 [<img align="left" alt="SamNickGammer | Facebook" width="22px" src="./Facebook_perspective_matte_s.png" />][facebook]
 [<img align="left" alt="SamNickGammer | Twitter" width="22px" src="./Twitter_perspective_matte_s.png" />][twitter]
 [<img align="left" alt="SamNickGammer | LinkedIn" width="22px" src="./Linkedin_perspective_matte_s.png" />][linkedin]
-[<img align="left" alt="SamNickGammer | Instagram" width="22px" src="./Instagram_perspective_matte_s.png" />][instagram]
+[<img align="left" alt="SamNickGammer | Instagram" width="22px" src="./Instagram_perspective_matte_s.png" />][instagram] -->
 
 <br />
 
