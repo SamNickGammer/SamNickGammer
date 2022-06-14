@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/omprakash121uni?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fomprakash121uni&screen_name=omprakash121uni)
 
-<a href="http://samnickgammer.github.io/">
+<a href="http://samnickgammer.github.io/" style="display:inline;">
   <img src="https://visitcount.itsvg.in/api?id=SamNickGammer&label=Profile%20Views&color=7&pretty=true" />
 </a>
 
