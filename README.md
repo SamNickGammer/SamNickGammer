@@ -4,14 +4,11 @@
 <h3 align="center">I'm an aspiring 𝗙𝘂𝗹𝗹𝗦𝘁𝗮𝗰𝗸 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 who loves Creating and Making Something Better. </h3>
 <br><br>
 
-<img align="right" alt="coding" width="450" src="./coding2.gif">
+<!-- <img align="right" alt="coding" width="450" src="./coding2.gif"> -->
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/omprakash121uni?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fomprakash121uni&screen_name=omprakash121uni)
-
-
-<a href="http://samnickgammer.github.io/" style="display:inline;">
+<!-- <a href="http://samnickgammer.github.io/" style="display:inline;">
   <img src="https://visitcount.itsvg.in/api?id=SamNickGammer&label=Profile%20Views&color=7&pretty=true" />
-</a>
+</a> -->
 
 ## I'm a Student, Developer, Friend !!
 
