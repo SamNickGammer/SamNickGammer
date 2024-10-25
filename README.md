@@ -1,6 +1,6 @@
 [![MasterHead](./banner.gif)](https://samnickgammer.github.io/)
 <!--### Hi there, I'm Sam - aka [SamNickGammer][website] 👋 -->
-<h1 align="center">Hi 👋 Programmers, I'm Sam Nick</h1>
+<h1 align="center">Hii <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Light%20Skin%20Tone.png" alt="Waving Hand Light Skin Tone" width="25" height="25" /> Awsome People, I'm Om Prakash Bharati</h1>
 <h3 align="center">I'm an aspiring 𝗙𝘂𝗹𝗹𝗦𝘁𝗮𝗰𝗸 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 who loves Creating and Making Something Better. </h3>
 <br><br>
 
