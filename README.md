@@ -10,7 +10,7 @@
   <img src="https://visitcount.itsvg.in/api?id=SamNickGammer&label=Profile%20Views&color=7&pretty=true" />
 </a> -->
 
-## I'm a Student, Developer, Friend !!
+## I'm a Student, Developer, Friend !
 
 - ⭐ I'm working on Personal Artificial Intelligence
 - 🌱 I’m currently learning everything 🤣
