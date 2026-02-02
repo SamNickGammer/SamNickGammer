@@ -7,12 +7,21 @@
 
 <!-- Animated Typing SVG -->
 <a href="#">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Scalable+Web+Applications;AI-Driven+Solutions+%26+Blockchain+Innovation;Turning+Ideas+Into+Reality+With+Code" alt="Typing SVG" style="pointer-events: none !important; height:100px" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Scalable+Web+Applications;AI-Driven+Solutions+%26+Blockchain+Innovation;Turning+Ideas+Into+Reality+With+Code" alt="Typing SVG" style="pointer-events: none !important; height:150px" />
 </a>
 
 <br/>
 
 </div>
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamNickGammer/SamNickGammer/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamNickGammer/SamNickGammer/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SamNickGammer/SamNickGammer/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/><br/>
 
 ---
 
@@ -39,7 +48,7 @@ Hey there! I'm a **Full Stack Developer** with **3+ years** of experience buildi
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/samnickgammer) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@samnickgammer) [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/samnickgammer)
 
 **📱 Social Media:**  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/omprakash121uni) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/samnickgammer_) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/samnickgammer.57489)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/omprakash121uni) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/samnickgammer) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/samnickgammer)
 
 ---
 
@@ -62,7 +71,7 @@ Hey there! I'm a **Full Stack Developer** with **3+ years** of experience buildi
 
 ---
 
-## 🚀 Featured Projects
+<!-- ## 🚀 Featured Projects
 
 **🤖 GitHub AI for Developers** *(Ongoing)*  
 A SaaS platform leveraging Next.js 15, Google Gemini AI, and Assembly AI for automated code analysis and debugging. Cuts onboarding time for new codebases by **50%**.
@@ -79,7 +88,7 @@ Python-based computer vision system achieving **95% accuracy** in detecting face
 **💼 Personal Portfolio** *(Oct 2021)*  
 Responsive portfolio built with Vanilla JavaScript, Bootstrap, and modern UI libraries, showcasing projects and skills with **50% improved accessibility**.
 
----
+--- -->
 
 ## 🛠️ Tech Stack
 
@@ -98,14 +107,14 @@ Responsive portfolio built with Vanilla JavaScript, Bootstrap, and modern UI lib
 **AI & Tools:**  
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
+<!-- ---
 
 ## 🎓 Education
 
 **Bachelor of Technology in Computer Science & Engineering**  
 *Amity University, Kolkata* | Aug 2019 - July 2023  
 **CGPA:** 7.64/10.0 | **Focus:** Decentralized Networks (Blockchain & Ganache)  
-**Relevant Coursework:** Python, Software Engineering, Operating Systems, Machine Learning
+**Relevant Coursework:** Python, Software Engineering, Operating Systems, Machine Learning -->
 
 ---
 
@@ -135,27 +144,14 @@ Fluent in English and Hindi | Conversational in French
 <div align="center">
 
 ## 📊 GitHub Stats
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SamNickGammer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SamNickGammer&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamNickGammer&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=SamNickGammer&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SamNickGammer&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamNickGammer&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
 
-<!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamNickGammer/SamNickGammer/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamNickGammer/SamNickGammer/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SamNickGammer/SamNickGammer/output/github-contribution-grid-snake.svg">
-</picture>
 
-<br/><br/>
+<!-- ## 🏆 GitHub Trophies
 
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=SamNickGammer&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SamNickGammer&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%"/> -->
 
 <br/><br/>
 
@@ -165,8 +161,9 @@ Fluent in English and Hindi | Conversational in French
 
 <br/>
 
+<a href="#">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" style="pointer-events: none;"/>
-
+</a>
 ### 🌟 Thanks for visiting! Let's build something amazing together! 🚀
 
 </div>
