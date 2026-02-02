@@ -1,17 +1,14 @@
 <div align="center">
 
 <!-- 3D Animated Header -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Om%20Prakash%20Bharati&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Blockchain%20Researcher&descSize=20&descAlignY=55&animation=twinkling&fontColor=fff">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Om%20Prakash%20Bharati&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Blockchain%20Researcher&descSize=20&descAlignY=55&animation=twinkling&fontColor=fff">
-  <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Om%20Prakash%20Bharati&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Blockchain%20Researcher&descSize=20&descAlignY=55&animation=twinkling&fontColor=fff" style="pointer-events: none;">
-</picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Om%20Prakash%20Bharati&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Blockchain%20Researcher&descSize=20&descAlignY=55&animation=twinkling&fontColor=fff" width="100%" style="pointer-events: none;"/>
 
 </div>
 
 <!-- Animated Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Scalable+Web+Applications;AI-Driven+Solutions+%26+Blockchain+Innovation;Turning+Ideas+Into+Reality+With+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Scalable+Web+Applications;AI-Driven+Solutions+%26+Blockchain+Innovation;Turning+Ideas+Into+Reality+With+Code" alt="Typing SVG" style="height:100px;pointer-events: none;" />
 </p>
 
 <!-- Animated Divider -->
@@ -426,11 +423,7 @@ If you find my work helpful, consider buying me a coffee! ☕
 <!-- Footer Wave -->
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer">
-  <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" style="pointer-events: none;">
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 ### 🌟 Thanks for visiting! Let's build something amazing together! 🚀
 
