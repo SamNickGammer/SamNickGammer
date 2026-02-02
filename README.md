@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 3D Animated Header -->
-![Header]("https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Om%20Prakash%20Bharati&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Blockchain%20Researcher&descSize=20&descAlignY=55&animation=twinkling&fontColor=fff")
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Om%20Prakash%20Bharati&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Blockchain%20Researcher&descSize=20&descAlignY=55&animation=twinkling&fontColor=fff)
 
 <!-- <img src="" width="100%"/> -->
 
