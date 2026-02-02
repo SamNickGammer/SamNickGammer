@@ -7,7 +7,7 @@
 
 <!-- Animated Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Scalable+Web+Applications;AI-Driven+Solutions+%26+Blockchain+Innovation;Turning+Ideas+Into+Reality+With+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Scalable+Web+Applications;AI-Driven+Solutions+%26+Blockchain+Innovation;Turning+Ideas+Into+Reality+With+Code" alt="Typing SVG" height="200px"/>
 </p>
 
 <!-- Animated Divider -->
